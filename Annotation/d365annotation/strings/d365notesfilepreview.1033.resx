@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+        <xsd:element name="root" msdata:IsDataSet="true">
+            <xsd:complexType>
+                <xsd:choice maxOccurs="unbounded">
+                    <xsd:element name="metadata">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" use="required" type="xsd:string"/>
+                            <xsd:attribute name="type" type="xsd:string"/>
+                            <xsd:attribute name="mimetype" type="xsd:string"/>
+                            <xsd:attribute ref="xml:space"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="assembly">
+                        <xsd:complexType>
+                            <xsd:attribute name="alias" type="xsd:string"/>
+                            <xsd:attribute name="name" type="xsd:string"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="data">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+                            <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+                            <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+                            <xsd:attribute ref="xml:space"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="resheader">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" use="required"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                </xsd:choice>
+            </xsd:complexType>
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="attachFile" xml:space="preserve">
+        <value>Attach File</value>
+        <comment>Label for file input button for new Notes</comment>
+    </data>
+    <data name="attachNew" xml:space="preserve">
+        <value>New</value>
+        <comment>Label for 'Add' command bar button</comment>
+    </data>
+    <data name="cancel" xml:space="preserve">
+        <value>Cancel</value>
+        <comment>Label for 'Cancel' button</comment>
+    </data>
+    <data name="createdOn" xml:space="preserve">
+        <value>Created On</value>
+        <comment>Label for 'Created On' field of Note entity</comment>
+    </data>
+    <data name="delete" xml:space="preserve">
+        <value>Delete</value>
+        <comment>Label for 'Delete' command bar button</comment>
+    </data>
+    <data name="deleteConfirmationText" xml:space="preserve">
+        <value>Are you sure you want to delete the selected documents?</value>
+        <comment>Delete confirmation dialog text</comment>
+    </data>
+    <data name="deleteConfirmationTitle" xml:space="preserve">
+        <value>Confirm deletion</value>
+        <comment>Delete confirmation dialog title</comment>
+    </data>
+    <data name="description" xml:space="preserve">
+        <value>Description</value>
+        <comment>Label for 'Desciption' field of Note entity</comment>
+    </data>
+    <data name="docDescription" xml:space="preserve">
+        <value>Description</value>
+        <comment>Label for 'Description' field of new Note</comment>
+    </data>
+    <data name="docTitle" xml:space="preserve">
+        <value>Document Name</value>
+        <comment>Label for 'Title' field of new Note</comment>
+    </data>
+    <data name="dropFiles" xml:space="preserve">
+        <value>Drag and drop files here to upload</value>
+        <comment>Text in the 'Drag and Drop' area</comment>
+    </data>
+    <data name="editNoteHeader" xml:space="preserve">
+        <value>Edit Existing Document</value>
+        <comment>Label for existing Note panel header</comment>
+    </data>
+    <data name="errorFilesUpload" xml:space="preserve">
+        <value>Sorry, an error occurred on file upload</value>
+        <comment>Message to show in case of an error during file upload</comment>
+    </data>
+    <data name="errorFileTooBig" xml:space="preserve">
+        <value>Sorry, file size exceeds the allowed limit</value>
+        <comment>Message to show in case note creation failed with the 'file too big' error</comment>
+    </data>
+    <data name="errorNoteCreate" xml:space="preserve">
+        <value>Sorry, an error occurred on Note creation</value>
+        <comment>Error message if an error occured during new Note creation</comment>
+    </data>
+    <data name="errorNoteDelete" xml:space="preserve">
+        <value>Sorry, an error occurred during document deletion</value>
+        <comment>Error message if an error occured during Note deletion</comment>
+    </data>
+    <data name="errorNotesRetrieval" xml:space="preserve">
+        <value>Sorry, an error occurred during document list retrieval</value>
+        <comment>Error message if an error occured during notes list retrieval</comment>
+    </data>
+    <data name="errorNoteUpdate" xml:space="preserve">
+        <value>Sorry, could not save changes to the document</value>
+        <comment>Error message if an error occured during Note update</comment>
+    </data>
+    <data name="errorPickingFile" xml:space="preserve">
+        <value>Sorry, something went wrong with picking a file</value>
+        <comment>Error message if an error occured when picking a file from hard drive</comment>
+    </data>
+    <data name="errorThemeRetrieval" xml:space="preserve">
+        <value>Sorry, an error occurred during default theme retrieval</value>
+        <comment>Error message if an error occured during default theme retrieval</comment>
+    </data>
+    <data name="fileName" xml:space="preserve">
+        <value>File Name</value>
+        <comment>Label for 'File Name' field of Note entity</comment>
+    </data>
+    <data name="filesAreUploading" xml:space="preserve">
+        <value>Your files are being uploaded</value>
+        <comment>Spinner text for files upload</comment>
+    </data>
+    <data name="loading" xml:space="preserve">
+        <value>Loading...</value>
+        <comment>Spinner text</comment>
+    </data>
+    <data name="newNoteHeader" xml:space="preserve">
+        <value>Attach new Document</value>
+        <comment>Label for new Note panel header</comment>
+    </data>
+    <data name="nextDocument" xml:space="preserve">
+        <value>Next Document</value>
+        <comment>Next document button label in document preview</comment>
+    </data>
+    <data name="noFilesAttached" xml:space="preserve">
+        <value>There were no files found to upload</value>
+        <comment>Message to show in case of empty files drop</comment>
+    </data>
+    <data name="noItems" xml:space="preserve">
+        <value>There are no documents attached.</value>
+        <comment>Text to display if there are no rows available</comment>
+    </data>
+    <data name="owner" xml:space="preserve">
+        <value>Owner</value>
+        <comment>Label for 'Owner' field of Note entity</comment>
+    </data>
+    <data name="previousDocument" xml:space="preserve">
+        <value>Previous Document</value>
+        <comment>Previous document button label in document preview</comment>
+    </data>
+    <data name="refresh" xml:space="preserve">
+        <value>Refresh</value>
+        <comment>Label for 'Refresh' command bar button</comment>
+    </data>
+    <data name="replaceFile" xml:space="preserve">
+        <value>Replace File</value>
+        <comment>Label for file input button on Note edit</comment>
+    </data>
+    <data name="save" xml:space="preserve">
+        <value>Save</value>
+        <comment>Label for 'Save' button</comment>
+    </data>
+    <data name="sortedAZ" xml:space="preserve">
+        <value>Sorted A to Z</value>
+    </data>
+    <data name="sortedDateAcs" xml:space="preserve">
+        <value>Sorted Oldest to Newest</value>
+    </data>
+    <data name="sortedDateDesc" xml:space="preserve">
+        <value>Sorted Newest to Oldest</value>
+    </data>
+    <data name="sortedZA" xml:space="preserve">
+        <value>Sorted Z to A</value>
+    </data>
+    <data name="title" xml:space="preserve">
+        <value>Title</value>
+        <comment>Label for 'Subject' field of Note entity</comment>
+    </data>
+    <data name="uploadInProgress" xml:space="preserve">
+        <value>File upload is still in progress, please wait until it's completed</value>
+        <comment>Message that is shown to user when trying to drop more files during upload</comment>
+    </data>
+</root>

@@ -1,0 +1,37 @@
+{
+  "name": "pcf-project",
+  "version": "1.0.0",
+  "description": "Project containing your PowerApps Component Framework (PCF) control.",
+  "scripts": {
+    "build": "pcf-scripts build",
+    "clean": "pcf-scripts clean",
+    "rebuild": "pcf-scripts rebuild",
+    "start": "pcf-scripts start",
+    "refreshTypes": "pcf-scripts refreshTypes"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.10",
+    "@fluentui/react": "^8.88.0",
+    "@types/sanitize-html": "^2.6.2",
+    "glob-parent": "^6.0.2",
+    "lodash": "^4.17.21",
+    "office-ui-fabric-react": "^7.192.0",
+    "react-file-viewer": "^1.2.1",
+    "sanitize-html": "^2.7.1",
+    "serialize-javascript": "^6.0.0",
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.48",
+    "@types/powerapps-component-framework": "^1.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "pcf-scripts": "^1",
+    "pcf-start": "^1",
+    "typescript": "^4.3"
+  }
+}
