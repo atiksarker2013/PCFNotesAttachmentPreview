@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "axHFiymaT65RZHKu0h5oF6vJdHs9kf2fimrmVSiRDd74kc+JFlasReFO22XkH0+F2b8SUuT3xOMpZju211kb0w==",
+  "success": true,
+  "projectFilePath": "C:\\TESVOLT\\Mohammad\\Annotation\\d365notesfilepreviewsolution\\d365notesfilepreviewsolution.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MohammadAtiourIslamT\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\MohammadAtiourIslamT\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\MohammadAtiourIslamT\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.17.5\\microsoft.powerapps.msbuild.pcf.1.17.5.nupkg.sha512",
+    "C:\\Users\\MohammadAtiourIslamT\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.17.5\\microsoft.powerapps.msbuild.solution.1.17.5.nupkg.sha512"
+  ],
+  "logs": []
+}

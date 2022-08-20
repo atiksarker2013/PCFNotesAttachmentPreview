@@ -1,0 +1,19 @@
+2022-08-20 02:58:14.092 - Info	
+Packing C:\TESVOLT\Mohammad\Annotation\d365notesfilepreviewsolution\obj\Debug\Metadata to bin\Debug\d365notesfilepreviewsolution.zip
+
+2022-08-20 02:58:14.105 - Info	Processing Component: Entities
+2022-08-20 02:58:14.108 - Info	Processing Component: Roles
+2022-08-20 02:58:14.111 - Info	Processing Component: Workflows
+2022-08-20 02:58:14.114 - Info	Processing Component: FieldSecurityProfiles
+2022-08-20 02:58:14.115 - Info	Processing Component: Templates
+2022-08-20 02:58:14.115 - Info	Processing Component: EntityMaps
+2022-08-20 02:58:14.116 - Info	Processing Component: EntityRelationships
+2022-08-20 02:58:14.120 - Info	Processing Component: OrganizationSettings
+2022-08-20 02:58:14.121 - Info	Processing Component: optionsets
+2022-08-20 02:58:14.121 - Info	Processing Component: CustomControls
+2022-08-20 02:58:14.129 - Info	 - mohammad.d365notesfilepreview
+2022-08-20 02:58:14.141 - Info	Processing Component: SolutionPluginAssemblies
+2022-08-20 02:58:14.143 - Info	Processing Component: EntityDataProviders
+2022-08-20 02:58:14.405 - Info	
+Unmanaged Pack complete.
+

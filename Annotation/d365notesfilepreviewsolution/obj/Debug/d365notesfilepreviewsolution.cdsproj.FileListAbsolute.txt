@@ -1,0 +1,2 @@
+C:\TESVOLT\Mohammad\Annotation\d365notesfilepreviewsolution\obj\Debug\d365notesfilepreviewsolution.cdsproj.AssemblyReference.cache
+C:\TESVOLT\Mohammad\Annotation\d365notesfilepreviewsolution\obj\Debug\d365notesfilepreviewsolution.cdsproj.CoreCompileInputs.cache
